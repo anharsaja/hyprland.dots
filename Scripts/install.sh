@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #|---/ /+--------------------------+---/ /|#
 #|--/ /-| Main installation script |--/ /-|#
-#|-/ /--| anharsaja - customing    |-/ /--|#
+#|-/ /--|   anharsaja - customing  |-/ /--|#
 #|/ /---+--------------------------+/ /---|#
 
 cat << "EOF"
